@@ -17,7 +17,7 @@
   </path>
   <!--  Import JaCoCo Ant tasks  -->
   <taskdef uri="antlib:org.jacoco.ant" resource="org/jacoco/ant/antlib.xml">
-        <classpath path="lib/jacocoant.jar"/>
+        <classpath path="jacocoant.jar"/>
     </taskdef>
   
   <target name="clean">
