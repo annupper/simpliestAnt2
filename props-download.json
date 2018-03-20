@@ -1,0 +1,16 @@
+{
+    "files": [
+        {
+            "pattern": "junit-jacoco/junit-4.12.jar",
+            "target": "/junit-4.12.jar"
+        },
+{
+            "pattern": "junit-jacoco/hamcrest-core-1.3.jar",
+            "target": "/hamcrest-core-1.3.jar"
+        },
+{
+            "pattern": "junit-jacoco/jacocoant.jar",
+            "target": "/jacocoant.jar"
+        }
+    ]
+}
